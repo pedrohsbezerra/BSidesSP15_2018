@@ -1,0 +1,123 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\OneDrive_HackTi.org\OneDrive - Hackti.org\DEV\Dev_Android_Source\android_TF\AndroidManifest.xml:18:1-83:12
+MERGED from [org.tensorflow:tensorflow-android:1.8.0-rc0] C:\Users\pedro\.gradle\caches\transforms-1\files-1.1\tensorflow-android-1.8.0-rc0.aar\4828b0bc27e038554727e6bf720628c7\AndroidManifest.xml:2:1-8:12
+MERGED from [com.android.volley:volley:1.0.0] C:\Users\pedro\.gradle\caches\transforms-1\files-1.1\volley-1.0.0.aar\7d048c67ae2354e55f8e6a7fc604247d\AndroidManifest.xml:2:1-11:12
+	package
+		ADDED from D:\OneDrive_HackTi.org\OneDrive - Hackti.org\DEV\Dev_Android_Source\android_TF\AndroidManifest.xml:19:5-34
+	xmlns:android
+		ADDED from D:\OneDrive_HackTi.org\OneDrive - Hackti.org\DEV\Dev_Android_Source\android_TF\AndroidManifest.xml:18:11-69
+uses-permission#android.permission.CAMERA
+ADDED from D:\OneDrive_HackTi.org\OneDrive - Hackti.org\DEV\Dev_Android_Source\android_TF\AndroidManifest.xml:21:5-65
+	android:name
+		ADDED from D:\OneDrive_HackTi.org\OneDrive - Hackti.org\DEV\Dev_Android_Source\android_TF\AndroidManifest.xml:21:22-62
+uses-feature#android.hardware.camera
+ADDED from D:\OneDrive_HackTi.org\OneDrive - Hackti.org\DEV\Dev_Android_Source\android_TF\AndroidManifest.xml:22:5-60
+	android:name
+		ADDED from D:\OneDrive_HackTi.org\OneDrive - Hackti.org\DEV\Dev_Android_Source\android_TF\AndroidManifest.xml:22:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from D:\OneDrive_HackTi.org\OneDrive - Hackti.org\DEV\Dev_Android_Source\android_TF\AndroidManifest.xml:23:5-70
+	android:name
+		ADDED from D:\OneDrive_HackTi.org\OneDrive - Hackti.org\DEV\Dev_Android_Source\android_TF\AndroidManifest.xml:23:19-67
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\OneDrive_HackTi.org\OneDrive - Hackti.org\DEV\Dev_Android_Source\android_TF\AndroidManifest.xml:24:5-80
+	android:name
+		ADDED from D:\OneDrive_HackTi.org\OneDrive - Hackti.org\DEV\Dev_Android_Source\android_TF\AndroidManifest.xml:24:22-78
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from D:\OneDrive_HackTi.org\OneDrive - Hackti.org\DEV\Dev_Android_Source\android_TF\AndroidManifest.xml:25:5-71
+	android:name
+		ADDED from D:\OneDrive_HackTi.org\OneDrive - Hackti.org\DEV\Dev_Android_Source\android_TF\AndroidManifest.xml:25:22-68
+uses-permission#android.permission.INTERNET
+ADDED from D:\OneDrive_HackTi.org\OneDrive - Hackti.org\DEV\Dev_Android_Source\android_TF\AndroidManifest.xml:26:5-67
+	android:name
+		ADDED from D:\OneDrive_HackTi.org\OneDrive - Hackti.org\DEV\Dev_Android_Source\android_TF\AndroidManifest.xml:26:22-64
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from D:\OneDrive_HackTi.org\OneDrive - Hackti.org\DEV\Dev_Android_Source\android_TF\AndroidManifest.xml:27:5-76
+	android:name
+		ADDED from D:\OneDrive_HackTi.org\OneDrive - Hackti.org\DEV\Dev_Android_Source\android_TF\AndroidManifest.xml:27:22-73
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from D:\OneDrive_HackTi.org\OneDrive - Hackti.org\DEV\Dev_Android_Source\android_TF\AndroidManifest.xml:28:5-76
+	android:name
+		ADDED from D:\OneDrive_HackTi.org\OneDrive - Hackti.org\DEV\Dev_Android_Source\android_TF\AndroidManifest.xml:28:22-73
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\OneDrive_HackTi.org\OneDrive - Hackti.org\DEV\Dev_Android_Source\android_TF\AndroidManifest.xml:29:5-79
+	android:name
+		ADDED from D:\OneDrive_HackTi.org\OneDrive - Hackti.org\DEV\Dev_Android_Source\android_TF\AndroidManifest.xml:29:22-76
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from D:\OneDrive_HackTi.org\OneDrive - Hackti.org\DEV\Dev_Android_Source\android_TF\AndroidManifest.xml:30:5-79
+	android:name
+		ADDED from D:\OneDrive_HackTi.org\OneDrive - Hackti.org\DEV\Dev_Android_Source\android_TF\AndroidManifest.xml:30:22-76
+uses-sdk
+ADDED from D:\OneDrive_HackTi.org\OneDrive - Hackti.org\DEV\Dev_Android_Source\android_TF\AndroidManifest.xml:32:5-34:41
+MERGED from [com.android.volley:volley:1.0.0] C:\Users\pedro\.gradle\caches\transforms-1\files-1.1\volley-1.0.0.aar\7d048c67ae2354e55f8e6a7fc604247d\AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.0.0] C:\Users\pedro\.gradle\caches\transforms-1\files-1.1\volley-1.0.0.aar\7d048c67ae2354e55f8e6a7fc604247d\AndroidManifest.xml:7:5-43
+	android:targetSdkVersion
+		ADDED from D:\OneDrive_HackTi.org\OneDrive - Hackti.org\DEV\Dev_Android_Source\android_TF\AndroidManifest.xml:34:9-38
+	android:minSdkVersion
+		ADDED from D:\OneDrive_HackTi.org\OneDrive - Hackti.org\DEV\Dev_Android_Source\android_TF\AndroidManifest.xml:33:9-35
+application
+ADDED from D:\OneDrive_HackTi.org\OneDrive - Hackti.org\DEV\Dev_Android_Source\android_TF\AndroidManifest.xml:36:5-81:19
+MERGED from [org.tensorflow:tensorflow-android:1.8.0-rc0] C:\Users\pedro\.gradle\caches\transforms-1\files-1.1\tensorflow-android-1.8.0-rc0.aar\4828b0bc27e038554727e6bf720628c7\AndroidManifest.xml:5:5-6:19
+MERGED from [org.tensorflow:tensorflow-android:1.8.0-rc0] C:\Users\pedro\.gradle\caches\transforms-1\files-1.1\tensorflow-android-1.8.0-rc0.aar\4828b0bc27e038554727e6bf720628c7\AndroidManifest.xml:5:5-6:19
+MERGED from [com.android.volley:volley:1.0.0] C:\Users\pedro\.gradle\caches\transforms-1\files-1.1\volley-1.0.0.aar\7d048c67ae2354e55f8e6a7fc604247d\AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.0.0] C:\Users\pedro\.gradle\caches\transforms-1\files-1.1\volley-1.0.0.aar\7d048c67ae2354e55f8e6a7fc604247d\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from D:\OneDrive_HackTi.org\OneDrive - Hackti.org\DEV\Dev_Android_Source\android_TF\AndroidManifest.xml:38:9-41
+	android:debuggable
+		ADDED from D:\OneDrive_HackTi.org\OneDrive - Hackti.org\DEV\Dev_Android_Source\android_TF\AndroidManifest.xml:37:9-34
+	android:icon
+		ADDED from D:\OneDrive_HackTi.org\OneDrive - Hackti.org\DEV\Dev_Android_Source\android_TF\AndroidManifest.xml:39:9-45
+	android:allowBackup
+		ADDED from D:\OneDrive_HackTi.org\OneDrive - Hackti.org\DEV\Dev_Android_Source\android_TF\AndroidManifest.xml:36:18-44
+	android:theme
+		ADDED from D:\OneDrive_HackTi.org\OneDrive - Hackti.org\DEV\Dev_Android_Source\android_TF\AndroidManifest.xml:40:9-45
+activity#org.tensorflow.demo.ClassifierActivity
+ADDED from D:\OneDrive_HackTi.org\OneDrive - Hackti.org\DEV\Dev_Android_Source\android_TF\AndroidManifest.xml:42:9-50:20
+	android:screenOrientation
+		ADDED from D:\OneDrive_HackTi.org\OneDrive - Hackti.org\DEV\Dev_Android_Source\android_TF\AndroidManifest.xml:43:19-55
+	android:label
+		ADDED from D:\OneDrive_HackTi.org\OneDrive - Hackti.org\DEV\Dev_Android_Source\android_TF\AndroidManifest.xml:44:19-71
+	android:name
+		ADDED from D:\OneDrive_HackTi.org\OneDrive - Hackti.org\DEV\Dev_Android_Source\android_TF\AndroidManifest.xml:42:19-72
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER+category:name:android.intent.category.LEANBACK_LAUNCHER
+ADDED from D:\OneDrive_HackTi.org\OneDrive - Hackti.org\DEV\Dev_Android_Source\android_TF\AndroidManifest.xml:45:13-49:29
+action#android.intent.action.MAIN
+ADDED from D:\OneDrive_HackTi.org\OneDrive - Hackti.org\DEV\Dev_Android_Source\android_TF\AndroidManifest.xml:46:17-69
+	android:name
+		ADDED from D:\OneDrive_HackTi.org\OneDrive - Hackti.org\DEV\Dev_Android_Source\android_TF\AndroidManifest.xml:46:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\OneDrive_HackTi.org\OneDrive - Hackti.org\DEV\Dev_Android_Source\android_TF\AndroidManifest.xml:47:17-77
+	android:name
+		ADDED from D:\OneDrive_HackTi.org\OneDrive - Hackti.org\DEV\Dev_Android_Source\android_TF\AndroidManifest.xml:47:27-74
+category#android.intent.category.LEANBACK_LAUNCHER
+ADDED from D:\OneDrive_HackTi.org\OneDrive - Hackti.org\DEV\Dev_Android_Source\android_TF\AndroidManifest.xml:48:17-86
+	android:name
+		ADDED from D:\OneDrive_HackTi.org\OneDrive - Hackti.org\DEV\Dev_Android_Source\android_TF\AndroidManifest.xml:48:27-83
+activity#org.tensorflow.demo.DetectorActivity
+ADDED from D:\OneDrive_HackTi.org\OneDrive - Hackti.org\DEV\Dev_Android_Source\android_TF\AndroidManifest.xml:52:9-60:20
+	android:screenOrientation
+		ADDED from D:\OneDrive_HackTi.org\OneDrive - Hackti.org\DEV\Dev_Android_Source\android_TF\AndroidManifest.xml:53:19-55
+	android:label
+		ADDED from D:\OneDrive_HackTi.org\OneDrive - Hackti.org\DEV\Dev_Android_Source\android_TF\AndroidManifest.xml:54:19-66
+	android:name
+		ADDED from D:\OneDrive_HackTi.org\OneDrive - Hackti.org\DEV\Dev_Android_Source\android_TF\AndroidManifest.xml:52:19-70
+activity#org.tensorflow.demo.StylizeActivity
+ADDED from D:\OneDrive_HackTi.org\OneDrive - Hackti.org\DEV\Dev_Android_Source\android_TF\AndroidManifest.xml:62:9-70:20
+	android:screenOrientation
+		ADDED from D:\OneDrive_HackTi.org\OneDrive - Hackti.org\DEV\Dev_Android_Source\android_TF\AndroidManifest.xml:63:19-55
+	android:label
+		ADDED from D:\OneDrive_HackTi.org\OneDrive - Hackti.org\DEV\Dev_Android_Source\android_TF\AndroidManifest.xml:64:19-64
+	android:name
+		ADDED from D:\OneDrive_HackTi.org\OneDrive - Hackti.org\DEV\Dev_Android_Source\android_TF\AndroidManifest.xml:62:19-69
+activity#org.tensorflow.demo.SpeechActivity
+ADDED from D:\OneDrive_HackTi.org\OneDrive - Hackti.org\DEV\Dev_Android_Source\android_TF\AndroidManifest.xml:72:9-80:20
+	android:screenOrientation
+		ADDED from D:\OneDrive_HackTi.org\OneDrive - Hackti.org\DEV\Dev_Android_Source\android_TF\AndroidManifest.xml:73:13-49
+	android:label
+		ADDED from D:\OneDrive_HackTi.org\OneDrive - Hackti.org\DEV\Dev_Android_Source\android_TF\AndroidManifest.xml:74:13-57
+	android:name
+		ADDED from D:\OneDrive_HackTi.org\OneDrive - Hackti.org\DEV\Dev_Android_Source\android_TF\AndroidManifest.xml:72:19-68
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from D:\OneDrive_HackTi.org\OneDrive - Hackti.org\DEV\Dev_Android_Source\android_TF\AndroidManifest.xml:18:1-83:12 reason: tensorflow.contrib.android has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from D:\OneDrive_HackTi.org\OneDrive - Hackti.org\DEV\Dev_Android_Source\android_TF\AndroidManifest.xml:18:1-83:12 reason: tensorflow.contrib.android requested WRITE_EXTERNAL_STORAGE
