@@ -1,0 +1,4 @@
+#Thu Apr 19 10:54:51 BRT 2018
+base.0=D\:\\OneDrive_HackTi.org\\OneDrive - Hackti.org\\DEV\\Dev_Android_Source\\android_TF\\gradleBuild\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

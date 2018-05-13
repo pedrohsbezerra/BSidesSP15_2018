@@ -1,0 +1,113 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\OneDrive_HackTi.org\\OneDrive - Hackti.org\\DEV\\Dev_Android_Source\\android_TF\\gradleBuild\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "D:\\OneDrive_HackTi.org\\OneDrive - Hackti.org\\DEV\\Dev_Android_Source\\android_TF\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "17",
+                        "startColumns": "4",
+                        "startOffsets": "676",
+                        "endColumns": "54",
+                        "endOffsets": "726"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "54",
+                        "endOffsets": "105"
+                    }
+                },
+                {
+                    "source": "D:\\OneDrive_HackTi.org\\OneDrive - Hackti.org\\DEV\\Dev_Android_Source\\android_TF\\res\\values\\template-dimens.xml",
+                    "from": {
+                        "startLines": "28,24,23,22,21,20,29",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "1000,917,872,826,782,739,1071",
+                        "endColumns": "69,42,43,44,42,41,67",
+                        "endOffsets": "1065,955,911,866,820,776,1134"
+                    },
+                    "to": {
+                        "startLines": "4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "295,365,408,452,497,540,582",
+                        "endColumns": "69,42,43,44,42,41,67",
+                        "endOffsets": "360,403,447,492,535,577,645"
+                    }
+                },
+                {
+                    "source": "D:\\OneDrive_HackTi.org\\OneDrive - Hackti.org\\DEV\\Dev_Android_Source\\android_TF\\res\\values\\base-strings.xml",
+                    "from": {
+                        "startLines": "19,20,22,21,18",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "732,802,927,865,678",
+                        "endColumns": "68,61,58,60,52",
+                        "endOffsets": "796,859,981,921,726"
+                    },
+                    "to": {
+                        "startLines": "11,12,13,14,15",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "650,719,781,840,901",
+                        "endColumns": "68,61,58,60,52",
+                        "endOffsets": "714,776,835,896,949"
+                    }
+                },
+                {
+                    "source": "D:\\OneDrive_HackTi.org\\OneDrive - Hackti.org\\DEV\\Dev_Android_Source\\android_TF\\res\\values\\template-styles.xml",
+                    "from": {
+                        "startLines": "24,20,22,27,29,34",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "805,684,748,889,920,1122",
+                        "endLines": "24,20,22,27,32,39",
+                        "endColumns": "51,60,53,27,12,12",
+                        "endOffsets": "852,740,797,912,1114,1400"
+                    },
+                    "to": {
+                        "startLines": "19,21,22,23,24,28",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "1171,1317,1377,1430,1457,1653",
+                        "endLines": "19,21,22,23,27,33",
+                        "endColumns": "50,59,52,26,12,12",
+                        "endOffsets": "1217,1372,1425,1452,1648,1926"
+                    }
+                },
+                {
+                    "source": "D:\\OneDrive_HackTi.org\\OneDrive - Hackti.org\\DEV\\Dev_Android_Source\\android_TF\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "18,16,17",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "810,674,725",
+                        "endColumns": "82,49,83",
+                        "endOffsets": "888,719,804"
+                    },
+                    "to": {
+                        "startLines": "16,17,18",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "954,1037,1087",
+                        "endColumns": "82,49,83",
+                        "endOffsets": "1032,1082,1166"
+                    }
+                },
+                {
+                    "source": "D:\\OneDrive_HackTi.org\\OneDrive - Hackti.org\\DEV\\Dev_Android_Source\\android_TF\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "16",
+                        "startColumns": "4",
+                        "startOffsets": "674",
+                        "endColumns": "95",
+                        "endOffsets": "765"
+                    },
+                    "to": {
+                        "startLines": "20",
+                        "startColumns": "4",
+                        "startOffsets": "1222",
+                        "endColumns": "94",
+                        "endOffsets": "1312"
+                    }
+                }
+            ]
+        }
+    ]
+}
